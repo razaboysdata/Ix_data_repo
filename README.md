@@ -2,4 +2,4 @@
  olives
  penne
  red wine
- tequila
+ pepsi cola
